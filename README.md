@@ -1,6 +1,6 @@
-# AN_devs Software Group Website
+# AN_devs Software Group Portfolio Website
 
-**This is the official source code of the [AN_devs Software Group website][https://www.an-devs.com].**
+**This is the official source code of the [AN_devs Software Group Portfolio website][https://www.an-devs.com].**
 
 We’ve published the full working version so that anyone can verify the website is safe and transparent.
 
